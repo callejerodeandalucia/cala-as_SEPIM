@@ -1,14 +1,10 @@
-Título (30)
-===========
-Guía Oficial de Calañas
+Título: Guía Oficial de Calañas
 
-Descripción breve (80)
-======================
+Descripción breve:  
 Guía con información de Calañas, mostrada sobre el callejero digital
 
+ Descripción completa :
 
-Descripción completa (4000)
-===========================
 La Guía Oficial de Calañas es una aplicación, confeccionada  con la intención de ser una herramienta útil, para todos los vecinos y visitantes, por su contenido informativo completo, sobre nuestro pueblo, mostrado en el callejero digital.  El Ayuntamiento presenta esta opción para móviles, que forman ya parte de nuestra vida diaria, con la que tendrás a Calañas en tus manos.  
 
 Al abrirla ofrece una búsqueda  por “Categorías”: comercios, bancos, centro de salud,  farmacias, asociaciones, colegios, dónde comer, donde dormir, monumentos…, que te llevarán a su ubicación en el plano, donde podrás consultar y desplazarte de forma sencilla y rápida.   
@@ -21,20 +17,4 @@ Entre las fiestas y tradiciones, hay que señalar como principal, la Romería de
 A lo largo de la historia, su principal actividad económica ha sido, y es, la minería, con yacimientos de cobre, pirita y manganeso.  
 Hay que destacar el temperamento propio de nuestros habitantes, con un carácter amable y muestras de acogida con los viajeros.         Ven a visitarnos!
 
-
-
-Etiquetas	
-===========
-
-Notas de versión
-=================
-Versión inicial
-
-****añadir algo aquí si se publica en forma de actualización***
-
-Sitio web
-=========
-
-Correo electrónico
-==================
 
