@@ -1,11 +1,27 @@
 Título (30)
 ===========
+Guía Oficial de Calañas
 
 Descripción breve (80)
 ======================
+Guía con información de Calañas, mostrada sobre el callejero digital
+
 
 Descripción completa (4000)
 ===========================
+La Guía Oficial de Calañas es una aplicación, confeccionada  con la intención de ser una herramienta útil, para todos los vecinos y visitantes, por su contenido informativo completo, sobre nuestro pueblo, mostrado en el callejero digital.  El Ayuntamiento presenta esta opción para móviles, que forman ya parte de nuestra vida diaria, con la que tendrás a Calañas en tus manos.  
+
+Al abrirla ofrece una búsqueda  por “Categorías”: comercios, bancos, centro de salud,  farmacias, asociaciones, colegios, dónde comer, donde dormir, monumentos…, que te llevarán a su ubicación en el plano, donde podrás consultar y desplazarte de forma sencilla y rápida.   
+Si elegimos el módulo “Cerca de mí” indicará todos los puntos de interés próximos a donde nos encontremos. Utiliza la tecnología GPS, para guiarnos por el callejero, hasta el lugar requerido.    
+ 
+ La aplicación tiene la particularidad de presentar imágenes asociadas  a los lugares que buscamos, así como teléfonos de contacto, dirección de correo electrónico, página web y otros datos de interés. Permitiendo realizar directamente llamadas de teléfono o enviar correos electrónicos o llevarnos a su página Web.
+
+Comprobarás como nuestro pueblo está situado en un lugar privilegiado, en el centro de la provincia de Huelva, entre el mar y la sierra, en la Comarca del Andévalo. Sus monumentos, entre los que se encuentran: La Iglesia Parroquial Santa María de Gracia, El Ayuntamiento y el Mercado de Abastos, están declarados bienes de interés cultural (B.I.C), con un especial encanto y atractivo. 
+Entre las fiestas y tradiciones, hay que señalar como principal, la Romería de Ntra. Sra. De Coronada,  celebración que se remonta a 300 años de  antigüedad.  Estos días grandes de Calañas, se viven con gran emotividad.  La gastronomía tiene como excepcional, tomar roscos de pascua, vino de la Virgen (mezcla de vino blanco y moscatel) y esesitas (dulce típico calañés).  Sin olvidar el cante y baile de sevillanas y fandangos, vestidos de flamencos, todo esto, constituyendo parte de nuestra identidad.
+A lo largo de la historia, su principal actividad económica ha sido, y es, la minería, con yacimientos de cobre, pirita y manganeso.  
+Hay que destacar el temperamento propio de nuestros habitantes, con un carácter amable y muestras de acogida con los viajeros.         Ven a visitarnos!
+
+
 
 Etiquetas	
 ===========
